@@ -1,0 +1,23 @@
+.nappi{
+    background-color: rgb(153, 134, 153);   
+}
+.container{
+    display: flex;
+    flex-direction: column;
+}
+#nappi-id{
+    padding: 10px;
+    margin: 10px;
+}
+.testing{
+    display: flex;
+    padding: 50px;
+    margin: 100px;
+    border-style: solid;
+    width: 10px;
+}
+div{
+    background-color: aqua;
+    padding: 10px;
+    
+}
